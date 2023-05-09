@@ -11,7 +11,9 @@ The project is tested in the following environment
 
 # Links to Demo Video
 Training: https://northeastern-my.sharepoint.com/:v:/r/personal/deore_t_northeastern_edu/Documents/PRCV/Project3/Training.mp4?csf=1&web=1&e=aOvcay
+
 Nearest Neighbour classification: https://northeastern-my.sharepoint.com/:v:/r/personal/deore_t_northeastern_edu/Documents/PRCV/Project3/Classification_1.mp4?csf=1&web=1&e=TC0MJS
+
 K-NN classification: https://northeastern-my.sharepoint.com/:v:/r/personal/deore_t_northeastern_edu/Documents/PRCV/Project3/Classification_KNN.mp4?csf=1&web=1&e=gpb4Jh
 
 # Instructions for Running Executables
