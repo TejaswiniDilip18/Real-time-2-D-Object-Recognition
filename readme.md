@@ -32,13 +32,3 @@ To run the project executables, follow these steps:
 10. In classification mode, the user will have the option to continue or skip an image. To continue, enter "y"; to quit, enter "q"; to skip the image, enter any other key.
 
 Objects used: Pen, Mask, Adapter, Watch, Calculator, Comb, Earphones, ZED Box, Cloth, Bottle Cap, Spectacle Case
-
-# Acknowledgements
-
-[1] Professor Bruce Maxwell : author of csv_util files.
-
-[2] Inbuilt Moment functions in open CV. //https://learnopencv.com/shape-matching-using-hu-moments-c-python/
-
-[3] Map data structure. https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/
-
-[4] Putting a text in image on OpenCv. https://www.geeksforgeeks.org/write-on-an-image-using-opencv-in-cpp/
